@@ -1,0 +1,227 @@
+{
+  "data":[
+    {
+      "banner": [
+        {
+          "image": "https://image.shutterstock.com/image-vector/organic-grocery-shopping-web-banner-600w-1858683100.jpg"
+      },
+        {
+          "image": "https://image.shutterstock.com/image-photo/healthy-food-background-photography-different-600w-1696846630.jpg"
+
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/superfoods-vegetables-fruits-seeds-legumes-600w-1361141330.jpg"
+
+        }
+      ],
+      "list": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedyU4d4P8FZXjvsS8eQ45LLDuA2uMgH4Yzg&usqp=CAU",
+          "name": "SFT Dry Fruits Premium products Try out now",
+          "mrp": "MRP \u20B9137.00",
+          "dmartMrp": "DMart \u20B9105.00 ",
+          "save": "Save \u20B932.00",
+          "quantity":"200gm"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR47j1evxO_5yzkgnUt5uwOLfqFfwb_ZdyTpg&usqp=CAU",
+          "name": "Banetti Kucuk Dirsek",
+          "mrp": "MRP \u20B9137.00",
+          "dmartMrp": "DMart \u20B9105.00 ",
+          "save": "Save \u20B932.00",
+          "quantity":"100 gms"
+
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein Energy",
+          "mrp": "MRP \u20B9137.00",
+          "dmartMrp": "DMart \u20B9105.00 ",
+          "save": "Save \u20B932.00",
+          "quantity":"100 gms"
+        }
+      ],
+      "grid": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQrB3WfwUb--c_F1vmATOvcsXgFeejsCGfw&usqp=CAU",
+          "name": "Anmol Namkin"
+      },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedyU4d4P8FZXjvsS8eQ45LLDuA2uMgH4Yzg&usqp=CAU",
+          "name": "SFT Dry Fruits"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQrB3WfwUb--c_F1vmATOvcsXgFeejsCGfw&usqp=CAU",
+          "name": "Anmol Namkin"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedyU4d4P8FZXjvsS8eQ45LLDuA2uMgH4Yzg&usqp=CAU",
+          "name": "SFT Dry Fruits"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQrB3WfwUb--c_F1vmATOvcsXgFeejsCGfw&usqp=CAU",
+          "name": "Anmol Namkin"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein"
+        }
+      ]
+    },
+    {
+      "banner": [
+        {
+          "image": "https://image.shutterstock.com/image-vector/organic-grocery-shopping-web-banner-600w-1858683100.jpg"
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/healthy-food-background-photography-different-600w-1696846630.jpg"
+
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/superfoods-vegetables-fruits-seeds-legumes-600w-1361141330.jpg"
+
+        }
+      ],
+      "list": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedyU4d4P8FZXjvsS8eQ45LLDuA2uMgH4Yzg&usqp=CAU",
+          "name": "SFT Dry Fruits Premium products Try out now",
+          "mrp": "MRP \u20B9137.00",
+          "dmartMrp": "DMart \u20B9105.00 ",
+          "save": "Save \u20B932.00",
+          "quantity":"200gm"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR47j1evxO_5yzkgnUt5uwOLfqFfwb_ZdyTpg&usqp=CAU",
+          "name": "Banetti Kucuk Dirsek",
+          "mrp": "MRP \u20B9137.00",
+          "dmartMrp": "DMart \u20B9105.00 ",
+          "save": "Save \u20B932.00",
+          "quantity":"100 gms"
+
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein Energy",
+          "mrp": "MRP \u20B9137.00",
+          "dmartMrp": "DMart \u20B9105.00 ",
+          "save": "Save \u20B932.00",
+          "quantity":"100 gms"
+        }
+      ],
+      "grid": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQrB3WfwUb--c_F1vmATOvcsXgFeejsCGfw&usqp=CAU",
+          "name": "Anmol Namkin"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedyU4d4P8FZXjvsS8eQ45LLDuA2uMgH4Yzg&usqp=CAU",
+          "name": "SFT Dry Fruits"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQrB3WfwUb--c_F1vmATOvcsXgFeejsCGfw&usqp=CAU",
+          "name": "Anmol Namkin"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedyU4d4P8FZXjvsS8eQ45LLDuA2uMgH4Yzg&usqp=CAU",
+          "name": "SFT Dry Fruits"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQrB3WfwUb--c_F1vmATOvcsXgFeejsCGfw&usqp=CAU",
+          "name": "Anmol Namkin"
+        }
+      ]
+    },
+    {
+      "banner": [
+        {
+          "image": "https://image.shutterstock.com/image-vector/organic-grocery-shopping-web-banner-600w-1858683100.jpg"
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/healthy-food-background-photography-different-600w-1696846630.jpg"
+
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/superfoods-vegetables-fruits-seeds-legumes-600w-1361141330.jpg"
+
+        }
+      ],
+      "list": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedyU4d4P8FZXjvsS8eQ45LLDuA2uMgH4Yzg&usqp=CAU",
+          "name": "SFT Dry Fruits Premium products Try out now",
+          "mrp": "MRP \u20B9137.00",
+          "dmartMrp": "DMart \u20B9105.00 ",
+          "save": "Save \u20B932.00",
+          "quantity":"200gm"
+        },
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR47j1evxO_5yzkgnUt5uwOLfqFfwb_ZdyTpg&usqp=CAU",
+          "name": "Banetti Kucuk Dirsek",
+          "mrp": "MRP \u20B9137.00",
+          "dmartMrp": "DMart \u20B9105.00 ",
+          "save": "Save \u20B932.00",
+          "quantity":"100 gms"
+
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein Energy",
+          "mrp": "MRP \u20B9137.00",
+          "dmartMrp": "DMart \u20B9105.00 ",
+          "save": "Save \u20B932.00",
+          "quantity":"100 gms"
+        }
+      ],
+      "grid": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQrB3WfwUb--c_F1vmATOvcsXgFeejsCGfw&usqp=CAU",
+          "name": "Anmol Namkin"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedyU4d4P8FZXjvsS8eQ45LLDuA2uMgH4Yzg&usqp=CAU",
+          "name": "SFT Dry Fruits"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQrB3WfwUb--c_F1vmATOvcsXgFeejsCGfw&usqp=CAU",
+          "name": "Anmol Namkin"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedyU4d4P8FZXjvsS8eQ45LLDuA2uMgH4Yzg&usqp=CAU",
+          "name": "SFT Dry Fruits"
+        }
+      ]
+    },
+    {
+      "banner": [
+        {
+          "image": "https://image.shutterstock.com/image-vector/organic-grocery-shopping-web-banner-600w-1858683100.jpg"
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/healthy-food-background-photography-different-600w-1696846630.jpg"
+
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/superfoods-vegetables-fruits-seeds-legumes-600w-1361141330.jpg"
+
+        }
+      ],
+      "list": [],
+      "grid": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQrB3WfwUb--c_F1vmATOvcsXgFeejsCGfw&usqp=CAU",
+          "name": "Anmol Namkin"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2JbZNZjtFYhkwnWppDQwpjJL3cOcCrLwFw&usqp=CAU",
+          "name": "Vega Protein"
+        },{
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedyU4d4P8FZXjvsS8eQ45LLDuA2uMgH4Yzg&usqp=CAU",
+          "name": "SFT Dry Fruits"
+        }
+      ]
+    }
+  ]
+}
